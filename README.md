@@ -1,13 +1,13 @@
 # Install
 
 ~~~~
-> curl -o - https://raw.githubusercontent.com/iamslash/bash_robin/master/install-all.sh | sh
+$ curl -o - https://raw.githubusercontent.com/iamslash/bash_robin/master/install-all.sh | sh
 ~~~~
 
 # UnInstall
 
 ~~~~
-> curl -o - https://raw.githubusercontent.com/iamslash/bash_robin/master/uninstall-all.sh | sh
+$ curl -o - https://raw.githubusercontent.com/iamslash/bash_robin/master/uninstall-all.sh | sh
 ~~~~
 
 # How to learn bash script
