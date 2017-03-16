@@ -16,6 +16,6 @@ die() {
 
 # clone bash-it
 git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it
-sh ~/.bash_it/install.sh
+bash ~/.bash_it/install.sh
 
 echo "bash-it is installed."
